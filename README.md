@@ -1,4 +1,4 @@
-# Git Guide für Teddymaus
+# Git Guide
 
 Bei git hast du immer ein lokales Repository (auf deinem Computer) und ein online Repository (bspw. GitHub).<br>
 Der Vorteil vom online Repository ist, dass mehrere Personen mit dem Code arbeiten können.<br>
